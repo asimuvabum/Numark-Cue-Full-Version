@@ -236,3 +236,6 @@ This repository serves as the official landing page for Numark CUE. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Numark CUE today!**
+
+---
+**Last updated:** 2026-09-08 13:09:06 UTC
