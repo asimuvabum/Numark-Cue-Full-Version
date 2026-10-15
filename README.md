@@ -238,4 +238,4 @@ This repository serves as the official landing page for Numark CUE. The software
 **Get the most recent version of Numark CUE today!**
 
 ---
-**Last updated:** 2026-10-15 17:28:18 UTC
+**Last updated:** 2026-10-15 20:40:24 UTC
